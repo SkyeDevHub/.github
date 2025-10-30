@@ -1,3 +1,12 @@
+
+
+
+<h1 align="center">
+  <a href="https://www.skye.energy/">
+    <img width="1584" height="394" alt="Skye" src="https://github.com/user-attachments/assets/ba54cb11-4409-43d0-b5dc-89d8d2128eaa" />
+  </a>
+</h1>
+
 # Building the Energy Autopilot for Industry
 We’re building a **real-time energy brain** — a platform that connects control systems, forecasting models, and energy markets into one continuous feedback loop.
 Think of it as autopilot for industrial energy: smart, reactive, and always learning.
